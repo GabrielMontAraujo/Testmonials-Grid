@@ -1,0 +1,96 @@
+body{
+  background-image:linear-gradient(90deg, hsl(210, 46%, 95%), hsl(0, 3%, 81%)) ;
+  color: hsl(219, 29%, 14%);
+  Font-size: 13px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: 500, 600;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+ul{
+  align-items: center;
+  line-height: 1.3rem;
+  list-style: none;
+}
+
+/*==================================Initial==========================*/
+
+main{
+  align-items: center;
+  /*border:1px solid black;*/
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+div{
+  align-items: center;
+  background-color: white;
+  box-shadow: inset;
+  /*border:1px solid red;*/
+  border-radius: 10px;
+  margin: .8rem;
+  padding-bottom: 1.3rem;
+}
+
+div ul{
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.grid__header{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.grid__header ul{
+  margin-left: 5px;
+  padding-left: 5px;
+  margin-top: 10px;
+}
+
+img{
+  border-radius: 100px;
+}
+.name{
+  font-size: 14px;
+}
+
+.graduate{
+  opacity: 0.5;
+}
+
+.testimonial__title{
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.testimonial__text{
+  font-size: 15px;
+  opacity: 0.5;
+}
+
+/*==============================Color Grid==============*/
+
+.grid__1{
+  background: hsl(263, 55%, 52%);
+  color: white;
+}
+
+.grid__2{
+  background:hsl(217, 19%, 35%);
+  color: white;
+}
+
+.grid__4{
+  background: hsl(219, 29%, 14%);
+  color:white;
+}
+
+.attribution{
+  background: transparent;
+}
+  

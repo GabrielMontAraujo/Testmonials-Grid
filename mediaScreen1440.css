@@ -1,0 +1,34 @@
+@media screen and (min-width:768px){
+  main{
+    align-items: stretch;
+    /*border:1px solid black;*/
+    display: grid;
+    flex-wrap: wrap;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 50% 50%;
+    grid-template-areas: "grid1 grid1 grid2 lateral"
+                         "grid3 grid4 grid4 lateral";
+  }
+
+  .grid__1{
+    grid-area: grid1;
+  }
+
+  .grid__2{
+    grid-area: grid2;
+  }
+
+  .grid__3{
+    grid-area: grid3;
+  }
+
+  .grid__4{
+    grid-area: grid4;
+  }
+
+  .grid__5{
+    grid-area: lateral;
+  }
+
+
+}
