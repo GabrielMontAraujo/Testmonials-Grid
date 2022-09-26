@@ -52,6 +52,10 @@ div ul{
   margin-top: 10px;
 }
 
+div{
+  box-shadow:10px 10px 8px rgb(203, 197, 197);
+}
+
 img{
   border-radius: 100px;
 }
