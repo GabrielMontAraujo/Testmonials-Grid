@@ -57,6 +57,7 @@ div{
 }
 
 img{
+  border: 0.7px solid rgba(0,0,0,0.6);
   border-radius: 100px;
 }
 .name{
