@@ -13,8 +13,6 @@ Esta é uma solução para [Testimonials grid section challenge on Frontend Ment
   - [O que eu aprendi](#what-i-learned)
 - [Autor](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### O Desafio
@@ -23,14 +21,11 @@ Nesse desafio foi utilizado Flex-Grid para distribuir os Testimonials na tela.
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![](./Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solução URL: [Projeto2 URL](https://gabrielmontaraujo.github.io/Projeto2/)
 
 ## Meu Processo
 
@@ -41,8 +36,6 @@ Nesse desafio foi utilizado Flex-Grid para distribuir os Testimonials na tela.
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### O que eu aprendi
 
@@ -66,6 +59,6 @@ const proudOfThisFunc = () => {
 }
 ```
 
-## Author
+## Autor
 
-- Website - [Gabriel Araujo](https://www.your-site.com)
+- Website - [Gabriel Araujo](https://github.com/GabrielMontAraujo)
