@@ -13,10 +13,6 @@ Esta é uma solução para [Testimonials grid section challenge on Frontend Ment
   - [O que eu aprendi](#what-i-learned)
 - [Autor](#author)
 
-# <<<<<<< HEAD
-
-> > > > > > > 1275d2db9482f15ec519de27d11953f4b5c21e41
-
 ## Overview
 
 ### O Desafio
@@ -29,12 +25,9 @@ Nesse desafio foi utilizado Flex-Grid para distribuir os Testimonials na tela.
 
 =======
 
-> > > > > > > 1275d2db9482f15ec519de27d11953f4b5c21e41
-
 ### Links
 
 - # Solução URL: [Projeto2 URL](https://gabrielmontaraujo.github.io/Projeto2/)
-  > > > > > > > 1275d2db9482f15ec519de27d11953f4b5c21e41
 
 ## Meu Processo
 
