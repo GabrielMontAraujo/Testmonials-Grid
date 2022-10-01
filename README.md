@@ -10,7 +10,6 @@ Esta é uma solução para [Testimonials grid section challenge on Frontend Ment
   - [Links](#links)
 - [Meu Processo](#meu-processp)
   - [Construído Com](#construido-com)
-  - [O que eu aprendi](#what-i-learned)
 - [Autor](#author)
 
 ## Overview
@@ -27,7 +26,7 @@ Nesse desafio foi utilizado Flex-Grid para distribuir os Testimonials na tela.
 
 ### Links
 
-- # Solução URL: [Projeto2 URL](https://gabrielmontaraujo.github.io/Projeto2/)
+# Solução URL: [Projeto2 URL](https://gabrielmontaraujo.github.io/Projeto2/)
 
 ## Meu Processo
 
@@ -38,28 +37,6 @@ Nesse desafio foi utilizado Flex-Grid para distribuir os Testimonials na tela.
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
-### O que eu aprendi
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 
 ## Autor
 
